@@ -70,7 +70,7 @@ loading
 clear
 printf "\n"
 printf "\e[1;92m       __  _             _  _           _               _      \e[0m\n"
-printf "\e[1;92m      / / | | v2.5-MOD  | || | ______  | |     _       | |     \e[0m\n"
+printf "\e[1;92m      / / | | v2.9-MOD  | || | ______  | |     _       | |     \e[0m\n"
 printf "\e[1;92m     / /  | |           | || |(_____ \ | |    (_)      | |     \e[0m\n"
 printf "\e[1;91m     \ \  | |___   ____ | || | _____) )| |___  _   ___ | |___  \e[0m\n"
 printf "\e[1;91m      \ \ | |_  | / _  )| || ||  ____/ | |_  || | /___)| |_  | \e[0m\n"
@@ -78,7 +78,7 @@ printf "\e[1;92m  _____) )| | | |( (/ / | || || |      | | | || ||___ || | | | \
 printf "\e[1;92m (______/ |_| |_| \____)|_||_||_|      |_| |_||_|(___/ |_| |_| \e[0m\n"
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;94m Phishing Tool Moded by @collinstechadmin \e[0m\e[1;93m.:.:.\e[0m\n\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;94m JOIN OUR CHANNEL TO GET MORE HACKING TOOLS http://t.me/collinstechchannel \e[0m\e[1;93m.:.:.\e[0m\n\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;94m JOIN OUR CHANNEL TO GET MORE HACKING TOOLS http://t.me/collinstechchannel2 \e[0m\e[1;93m.:.:.\e[0m\n\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShellPhish ::\e[0m\n"
 printf " \n"
